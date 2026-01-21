@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio.
 This website showcases my skills, projects, and experience in software development.
 
 🌍 **Live Website:**  
-👉 https://Maercel0022798.github.io/portfolio/
+👉 https://Marcel0022798.github.io/portfolio/
 
 ---
 
